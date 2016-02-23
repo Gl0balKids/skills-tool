@@ -1,7 +1,7 @@
 # bocoup-gk-tool
 
 This project is being kicked off as part of the Bocoup Open Design Workshop series. 
-The best place to get started is to take a look at the Project Brief.
+The best place to get started is to take a look at the [Project Brief](https://github.com/Gl0balKids/bocoup-gk-tool/blob/master/project-brief.md).
 
 # Open Design Workshop Series
 
