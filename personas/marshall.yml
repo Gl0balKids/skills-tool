@@ -1,0 +1,47 @@
+name: Marshall
+image:
+imageCredit:
+quote:
+>
+  My name is Marshall and I don't have a quote.
+
+background:
+  age: 17
+  location: New York
+  maritalStatus: single
+  kids: false
+  profession: Student
+  education: HS
+
+about:
+>
+Marshall is a high-school junior planning a career in the video game industry
+
+interests:
+  - video games
+  - video game design
+  - learning
+  - teaching what he knows to younger kids
+
+goals:
+  - find advanced courses and internships
+  - find intrested kids for his own after school program
+
+likes:
+  - Grand Theft Auto video game series
+  - making cool games
+
+dislikes:
+  - 
+
+powers:
+  - Hyper-focused on video games
+  - Excited to help others
+
+routine:
+>
+  Some dys he helps run an after school program to teach game design and programming.
+  Some days he wants to take advanced classes or work in a game studio
+motivation:
+>
+  To make games

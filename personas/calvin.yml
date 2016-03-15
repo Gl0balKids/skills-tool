@@ -1,0 +1,48 @@
+name: Calvin
+image:
+imageCredit:
+quote:
+>
+  My name is Calvin and I don't have a quote.
+
+background:
+  age: 16
+  location: New York
+  maritalStatus: single
+  kids: false
+  profession: High School Student
+  education: HS
+
+about:
+>
+ Older brother brought him to the GlobalKIds program 3 years ago, has been coming since
+
+interests:
+  - writing
+  - reading
+  - games
+  - hanging with friends
+
+goals:
+  - Looking for a safe, fun activity to do after school FREE!
+
+likes:
+  - art
+  - video games
+
+dislikes:
+  - school clubs
+
+powers:
+  - under-privileged
+  - limited access to resources
+
+routine:
+  - morning: school
+    afternoon: school
+    evening: after-school program
+    night: home
+
+motivation:
+>
+  Wants to keep busy while parents are still at work
