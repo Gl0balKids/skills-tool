@@ -1,8 +1,7 @@
 name: Marshall
 image:
 imageCredit:
-quote:
->
+quote: >
   My name is Marshall and I don't have a quote.
 
 background:
@@ -13,9 +12,8 @@ background:
   profession: Student
   education: HS
 
-about:
->
-Marshall is a high-school junior planning a career in the video game industry
+about: >
+  Marshall is a high-school junior planning a career in the video game industry
 
 interests:
   - video games
@@ -32,16 +30,14 @@ likes:
   - making cool games
 
 dislikes:
-  - 
 
 powers:
   - Hyper-focused on video games
   - Excited to help others
 
-routine:
->
-  Some dys he helps run an after school program to teach game design and programming.
+routine: >
+  Some days he helps run an after school program to teach game design and programming.
   Some days he wants to take advanced classes or work in a game studio
-motivation:
->
+
+motivation: >
   To make games

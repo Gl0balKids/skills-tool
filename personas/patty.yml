@@ -1,8 +1,7 @@
 name: Patty Programcoordinator
 image:
 imageCredit:
-quote:
->
+quote: >
   My name is Patty and I don't have a quote.
 
 background:
@@ -14,8 +13,6 @@ background:
   education: Colege
 
 about:
->
-  
 
 interests:
   - karaoke

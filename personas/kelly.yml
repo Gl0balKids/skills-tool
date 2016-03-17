@@ -1,8 +1,7 @@
 name: Kelly
 image:
 imageCredit:
-quote:
->
+quote: >
   I love NYC and helping kids who live here.
 
 background:
@@ -13,8 +12,7 @@ background:
   profession: After-school administrator of tech-focused nonprofit
   education: College
 
-about:
->
+about: >
   Kelly grew up in Queens and worked for 6 years at Microsoft. Looking for a change of pace, she moved into the world of non-profits.
 
 interests:

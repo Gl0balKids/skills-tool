@@ -1,8 +1,7 @@
 name: Calvin
 image:
 imageCredit:
-quote:
->
+quote: >
   My name is Calvin and I don't have a quote.
 
 background:
@@ -13,8 +12,7 @@ background:
   profession: High School Student
   education: HS
 
-about:
->
+about: >
  Older brother brought him to the GlobalKIds program 3 years ago, has been coming since
 
 interests:
@@ -43,6 +41,5 @@ routine:
     evening: after-school program
     night: home
 
-motivation:
->
+motivation: >
   Wants to keep busy while parents are still at work
