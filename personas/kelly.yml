@@ -1,0 +1,48 @@
+name: Kelly
+image:
+imageCredit:
+quote: >
+  I love NYC and helping kids who live here.
+
+background:
+  age: 32
+  location: New York
+  maritalStatus: single
+  kids: false
+  profession: After-school administrator of tech-focused nonprofit
+  education: College
+
+about: >
+  Kelly grew up in Queens and worked for 6 years at Microsoft. Looking for a change of pace, she moved into the world of non-profits.
+
+interests:
+  - education
+  - technology
+  - personal growth
+  - equality
+
+goals:
+  - to help kids continue their STEM development after Global Kids
+  - to build lasting networks that will work with kids over years
+
+likes:
+  - helping
+  - teaching
+  - seeing growth
+
+dislikes:
+  - costs of after school programs
+  - how overwhelmed Global Kids workers are
+
+powers:
+  - has access to opportunities
+  - has in person time with kids
+
+routine:
+  - morning: get up and check email, look at calendar to see where they're working
+  - afternoon: go to location, teach/run classses
+  - evening: talk w/ parents/teachers
+
+motivation:
+  - grew up in NYC and sees opportunity inequality everyday
+  - is concerneed that the future people/culture won't have skills to succeed.
